@@ -11,7 +11,7 @@ Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Bu projeyi GitHub üzerinde çatallayın (forklayın)" />
 
-Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
+Eğer bilgisayarınızda git kurulu değil ise, [yükleyin](https://help.github.com/articles/set-up-git/).
 
 ## Projeyi "forklama"
 
@@ -55,7 +55,7 @@ git switch -c <sizin-yeni-dal-isminiz>
 ```bash
 git switch -c ekle-aydin-cagri-dumlu
 ```
-(Dal ismi içinde *ekle* kelimesinin geçme zorunluluğu yok, fakat bu dal isminizi katkı sunanlar listesine ekleme amacıyla oluşturulduğundan, ekle yazmak mantıklı olacaktır.)
+(Dal ismi içinde *ekle* kelimesinin geçme zorunluluğu yok, ancak bu dal isminizi katkı sunanlar listesine ekleme amacıyla oluşturulduğundan, ekle yazmak mantıklı olacaktır.)
 
 Eğer `git switch` komutu hata verirse Git sürümünüz eski olabilir. Bu durumda aşağıdaki komutu kullanabilirsiniz:
 
